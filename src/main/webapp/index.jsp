@@ -15,6 +15,7 @@
 <h2>Uploaded chef recipe to execute bash script.</h2>
 <h2>SSH from jenkins to node to execute chef-client.</h2>
 <h2><font color=red>"Now let's add a unit test."</font></h2>
+<h2><font color=red>"Failed to add junit test."</font></h2>
 <h1 align=center><font color=#00008B>"If this works, then I'm done!"</font></h1>
 </body>
 </html>
