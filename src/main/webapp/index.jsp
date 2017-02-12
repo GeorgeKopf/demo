@@ -14,6 +14,7 @@
 <h2>Wrote deploy bash script.</h2>
 <h2>Uploaded chef recipe to execute bash script.</h2>
 <h2>SSH from jenkins to node to execute chef-client.</h2>
+<h2>"Now let's add a unit test."</h2>
 <h1 align=center><font color=#00008B>
 "If this works, then I'm done!"
 </font></h1>
